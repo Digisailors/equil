@@ -179,7 +179,7 @@ p {
 span, footer {  line-height: 1.8; }
 
 .tm-btn {
-    display: inline-block;
+    /*display: inline-block;*/
     border: 1px solid #666;
     background-color: transparent;
     color: #999;
